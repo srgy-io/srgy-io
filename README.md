@@ -1,16 +1,34 @@
-## Hi there 👋
+# Привет, я Сергей! 👋
 
-<!--
-**srgy-io/srgy-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Embedded Systems Engineer 🔌🤖
 
-Here are some ideas to get you started:
+Я начинающий специалист в области разработки встраиваемых систем. Моя цель — разобраться, как код взаимодействует с аппаратным обеспечением, и научиться писать эффективные прошивки для микроконтроллеров. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+В этом профиле я делюсь своими учебными проектами, экспериментами и первыми шагами в мире Embedded.
+
+---
+
+### 📚 Мой стек и инструменты:
+
+- **Платформы:** Arduino (AVR) — текущий фокус.
+- **Инструменты и IDE:** VS Code + PlatformIO, Arduino IDE.
+- **Языки программирования:** C / C++ (в контексте Arduino Framework).
+- **Базовые навыки:** Работа с GPIO, подключение датчиков и дисплеев по протоколам I2C / SPI / UART, основы Git.
+
+---
+
+### 🎯 Мои планы и цели:
+- [ ] Освоить продвинутые концепции C/C++ (указатели, управление памятью, структуры данных).
+- [ ] Начать изучение **ESP32** и беспроводных протоколов (Wi-Fi, BLE).
+- [ ] Перейти к архитектуре ARM на базе **STM32** и работе с регистрами.
+- [ ] Познакомиться с операционными системами реального времени (RTOS).
+
+---
+
+### 📈 Статистика профиля:
+![GitHub Stats](https://vercel.app)
+
+---
+
+### ✉️ Связаться со мной:
+- **Email:** 
